@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DynE2OG2X1ENAL5dzWSNtJeWUeMTt4yUJXBfhNG8FTPQxwc2VILONoD/jKGniSYqLB/mu+98ZrHm2iykEN8+2Q==",
+  "success": true,
+  "projectFilePath": "D:\\School\\C# 2\\5-1_TipCalculator\\TipCalculator\\TipCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
